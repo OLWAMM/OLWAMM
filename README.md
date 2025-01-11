@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Olwam!
 
-👩🏻‍💻 Im a aspiring data analyst sharing about my journey and learnings in tech </br>
+👩🏻‍💻 Im a aspiring software developer sharing about my journey and learnings in tech </br>
 👩🏻‍🎓 Studing Information Technology at Richfield College, durban </br>
 🎨 I love to discover new ways to apply my knowlege on information technology </br>
 🌷 #learninginpublic in my digital garden </br>
